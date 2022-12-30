@@ -1,6 +1,6 @@
 variable "key_pair_name" {
     type = string
-    description = "keypair to utilize"
+    description = "useast1-KP"
     default = "NOVA-KP"
 }
 
